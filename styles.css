@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(13, 22, 94);
+}
+
+#contenedor-input{
+    margin: 50px;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+.contenedor-anime{
+    background-color: rgb(16, 56, 142);
+    height: 320px;
+    overflow: hidden;
+}
+.scroll{
+    height: 200px;
+    overflow: auto;
+}
+
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
